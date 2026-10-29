@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strjoin.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: abchouir <abchouir@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: abchouir <abchouir@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/18 13:38:28 by abchouir          #+#    #+#             */
 /*   Updated: 2026/10/22 18:39:32 by abchouir         ###   ########.fr       */

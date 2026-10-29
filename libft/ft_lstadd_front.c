@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_front.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: abchouir <abchouir@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: abchouir <abchouir@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/22 14:41:47 by abchouir          #+#    #+#             */
 /*   Updated: 2026/10/24 15:09:03 by abchouir         ###   ########.fr       */

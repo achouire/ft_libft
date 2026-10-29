@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strtrim.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: abchouir <abchouir@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: abchouir <abchouir@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/18 14:51:13 by abchouir          #+#    #+#             */
 /*   Updated: 2026/10/22 18:40:20 by abchouir         ###   ########.fr       */

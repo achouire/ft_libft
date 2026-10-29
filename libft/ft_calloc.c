@@ -3,25 +3,23 @@
 /*                                                        :::      ::::::::   */
 /*   ft_calloc.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: abchouir <abchouir@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: abchouir <abchouir@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/16 18:52:52 by abchouir          #+#    #+#             */
-/*   Updated: 2026/10/23 23:54:52 by abchouir         ###   ########.fr       */
+/*   Updated: 2026/10/28 15:21:52 by abchouir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stddef.h>
-#include <stdlib.h>
+#include "libft.h"
 
 void	*ft_calloc(size_t count, size_t size)
 {
 	unsigned char	*ptr;
-	size_t	i;
+	size_t			i;
 
-    // ptr = NULL;
-    i = size * count;
-    // if ((size != 0) && (i / size != count))
-    //     return (NULL);
+	if ((size != 0) && ((size_t)(-1) / size < count))
+		return (NULL);
+	i = size * count;
 	ptr = malloc(i);
 	if (!ptr)
 		return (NULL);
@@ -32,25 +30,3 @@ void	*ft_calloc(size_t count, size_t size)
 	}
 	return (ptr);
 }
-
-#include <stdio.h>
-
-int main(void)
-{
-    unsigned char *ptr;
-    size_t i;
-
-    ptr = ft_calloc(5, 4);
-    if (!ptr)
-        return (1);
-    i = 0;
-    while (i < 20)
-    {
-        printf("%d ", ptr[i]);
-        i++;
-    }
-    printf("\n");
-    free(ptr);
-    return (0);
-}
-

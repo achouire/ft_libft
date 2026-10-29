@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstmap.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: abchouir <abchouir@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: abchouir <abchouir@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/22 14:37:25 by abchouir          #+#    #+#             */
 /*   Updated: 2026/10/22 18:43:21 by abchouir         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_tolower.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: abchouir <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: abchouir <abchouir@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/14 07:57:21 by abchouir          #+#    #+#             */
 /*   Updated: 2026/10/14 08:06:28 by abchouir         ###   ########.fr       */
